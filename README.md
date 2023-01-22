@@ -1,4 +1,4 @@
-# 004_DioTrilhaJavaBasico
+# DioTrilhaJavaBasico
 ## Repositório para exemplos do curso  de Java básico da DIO.
 
 Estruturas de Repetição, usos:
