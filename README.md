@@ -1,5 +1,5 @@
-# dio-trilha-java-basico
-Repositório para exemplos do curso  de Java básico da DIO.
+# 004_DioTrilhaJavaBasico
+## Repositório para exemplos do curso  de Java básico da DIO.
 
 Estruturas de Repetição, usos:
 Utilize o "for" quando precisar de um contador.
